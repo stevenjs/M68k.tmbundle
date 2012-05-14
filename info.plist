@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>fgrirawf@lznvy.pbz</string>
+	<key>contactName</key>
+	<string>Steve Saunders</string>
+	<key>description</key>
+	<string></string>
+	<key>name</key>
+	<string>M68k Assembler</string>
+	<key>ordering</key>
+	<array>
+		<string>403FF551-23E2-4DC0-AF61-72D0B4195F54</string>
+		<string>8D3B5EE3-EC4B-42ED-9FC8-10290D0820DC</string>
+		<string>5BEFE57D-7AA0-47C4-BD5F-35991567F879</string>
+		<string>135F80B0-6555-4ED6-A5B7-2D413A807525</string>
+		<string>1D5B5A04-8DDF-435C-A561-34FA94C87E63</string>
+		<string>78FAA084-E39F-4ED5-A2DA-4FE3BD86BF0F</string>
+	</array>
+	<key>uuid</key>
+	<string>7730149D-B979-4D68-B3B4-D43A94E84906</string>
+</dict>
+</plist>
