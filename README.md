@@ -10,7 +10,7 @@ Open the Terminal and run these commands:
 
 	mkdir -p ~/Library/Application\ Support/TextMate/Bundles
 	cd ~/Library/Application\ Support/TextMate/Bundles
-	git clone git://github.com/StevenJS/M68k.tmbundle.git M68k.tmbundle
+	git clone git://github.com/stevenjs/M68k.tmbundle.git M68k.tmbundle
 	osascript -e 'tell app "TextMate" to reload bundles'
 
 ###### TextMate 2.0 Alpha
@@ -19,12 +19,12 @@ Open the Terminal and run these commands, then quit and restart TextMate 2:
 
 	mkdir -p ~/Library/Application\ Support/Avian/Bundles
 	cd ~/Library/Application\ Support/Avian/Bundles
-	git clone git://github.com/StevenJS/M68k.tmbundle.git M68k.tmbundle
+	git clone git://github.com/stevenjs/M68k.tmbundle.git M68k.tmbundle
 	
 ### Installing Manually
 
 1. Download and unpack the .zip from GitHub
-2. A folder with a name similar to StevenJS-M68k.tmbundle-xxxxxx should have been created
+2. A folder with a name similar to stevenjs-M68k.tmbundle-xxxxxx should have been created
 3. Rename the folder to M68k.tmbundle
 4. Move the M68k.tmbundle folder into `~/Library/Application\ Support/TextMate/Bundle` for TextMate or `~/Library/Application\ Support/Avian/Bundles` for TextMate 2 Alpha
 5. Restart TextMate/TextMate 2
